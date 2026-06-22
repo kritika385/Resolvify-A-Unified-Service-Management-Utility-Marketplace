@@ -69,5 +69,5 @@
 
 *   **Lead Developer:** Kritika
 *   **Specialization:** B.Tech Computer Science Engineering (8.1+ CGPA)
-*   **Technical Proficiency:** 380+ Technical Challenges Resolved  on LeetCode & GeeksforGeeks
+*   **Technical Proficiency:** 400+ Technical Challenges Resolved  on LeetCode & GeeksforGeeks
 *   **GitHub:** [kritika385](https://github.com/kritika385)
